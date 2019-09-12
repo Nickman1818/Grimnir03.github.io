@@ -1,0 +1,43 @@
+body
+{
+  margin: 0;
+  padding: 0;
+}
+.container
+{
+  position: relative;
+  width: 100%;
+}
+.container .section
+{
+  position: sticky;
+  top: 0;
+  width: 100%;
+  height: 100vh;
+  background: black;
+}
+.container .section:nth-child(1)
+{
+  background: url(https://raw.githubusercontent.com/Grimnir03/Grimnir03.github.io/master/backgrounds/https_%252F%252Fblogs-images.forbes.com%252Ferikkain%252Ffiles%252F2017%252F02%252FHorizonZeroDawn_Screens_SeptEvent_3840x2160_01-2.jpg);
+  background-size: cover;
+}
+.container .section:nth-child(2)
+{
+  background: url(https://raw.githubusercontent.com/Grimnir03/Grimnir03.github.io/master/backgrounds/Days-Gone.jpg);
+  background-size: cover;
+}
+.container .section:nth-child(3)
+{
+  background: url(https://raw.githubusercontent.com/Grimnir03/Grimnir03.github.io/master/backgrounds/RPG%20banner.jpg);
+  background-size: cover;
+}
+.container .section:nth-child(4)
+{
+  background: url(https://raw.githubusercontent.com/Grimnir03/Grimnir03.github.io/master/backgrounds/uploads1513795555327-HorizonZeroDawnGraphics.jpg);
+  background-size: cover;
+}
+.container .section:nth-child(5)
+{
+  background: url(https://raw.githubusercontent.com/Grimnir03/Grimnir03.github.io/master/backgrounds/final_fantasy_xv_release_date_-_gameplay_screenshot_9.jpg);
+  background-size: cover;
+}
