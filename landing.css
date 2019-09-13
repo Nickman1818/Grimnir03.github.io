@@ -65,26 +65,19 @@ input {
   border: 0px solid rgba(255,255,255,.0);
 }
 form {
-  letter-spacing: 2px;
   color: white;
 }
 h4 {
   color: white;
-  letter-spacing: 2px;
   font-family: 'Raleway', sans-serif;
+  letter-spacing: 2px;
 }
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
   color: white;
-  letter-spacing: 2px;
-  font-family: 'Raleway', sans-serif;
 }
 ::-webkit-input-placeholder { /* Edge */
   color: white;
-  letter-spacing: 2px;
-  font-family: 'Raleway', sans-serif;
 }
 ::placeholder {
-  font-family: 'Raleway', sans-serif;
   color: white;
-  letter-spacing: 2px;
 }
