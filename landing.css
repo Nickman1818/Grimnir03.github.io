@@ -73,10 +73,13 @@ h4 {
 }
 :-ms-input-placeholder { /* Internet Explorer 10-11 */
   color: white;
+  font-family: 'Raleway', sans-serif;
 }
 ::-webkit-input-placeholder { /* Edge */
   color: white;
+  font-family: 'Raleway', sans-serif;
 }
 ::placeholder {
+  font-family: 'Raleway', sans-serif;
   color: white;
 }
